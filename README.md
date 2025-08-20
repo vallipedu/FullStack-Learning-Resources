@@ -1,6 +1,9 @@
+
+### NBKR INSTITUTE OF SCIENCE AND TECHNOLOGY - VIDYANAR
+### FULLSTACK Presentations
 ### HTML, CSS, & JavaScript: The Web Development Fundamentals
 
-This presentations will introduce you to the core technologies of web development and guide you through a hands-on MERN stack project.
+These presentations will introduce you to the core technologies of web development and guide you through a hands-on MERN stack project.
 
 #### **Section 1: The Building Blocks of the Web**
 
